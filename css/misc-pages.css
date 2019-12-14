@@ -1,5 +1,6 @@
 body.simple-page {
-  background-color: url(../img/bg.png);
+  background-color: #4c443f;
+  background: url(../img/bg.png) no-repeat center center;
   padding-top: 8%; }
 
 
